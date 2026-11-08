@@ -1,14 +1,14 @@
 {
-  "versao": "1.0",
-  "notas": "Gerenciador de Tarefas 1.0",
+  "versao": "1.1",
+  "notas": "Gerenciador de Tarefas 1.1\n- Atualização automática pelo GitHub da Formatec.\n- Nova tela Sobre e atualizações, com contatos e Enviar log para o suporte.\n- Janela de espera no estilo do Windows (barra verde, gráfico, Cancelar).\n- Listas como no Explorador (ordenar, menu do botão direito, larguras guardadas).",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "98a556eeea9c1055f792a9f205026e38a612cf8ec36b6bfbe6b6a114cafcdb76"
+    "sha256": "134d9e4262b5089426af196e533b211155f6ee0452b9cc94e0cc0a3a24226e86"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "64ccb458498b6465436932d67f3299183348f4b71f206dca47199ab7c159b623"
+    "sha256": "b2700d6c1415fb220ea78d7811ff72e918a61b62a0a5050fe93a66620c1ae236"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "64ccb458498b6465436932d67f3299183348f4b71f206dca47199ab7c159b623"
+  "sha256": "b2700d6c1415fb220ea78d7811ff72e918a61b62a0a5050fe93a66620c1ae236"
 }
