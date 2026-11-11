@@ -72,6 +72,7 @@ Português, inglês e espanhol, com tema claro ☀️ e escuro 🌙.
 - 🌐 Site: [www.formatecsinformatica.com.br](https://www.formatecsinformatica.com.br)
 - 💬 WhatsApp (suporte): [(82) 99984-0942](https://wa.me/5582999840942)
 - 📷 Instagram: [@formatec.si](https://www.instagram.com/formatec.si)
+- ▶️ YouTube: [@formatec-si](https://www.youtube.com/@formatec-si)
 
 ---
 
