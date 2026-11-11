@@ -1,14 +1,14 @@
 {
-  "versao": "1.1",
-  "notas": "Gerenciador de Tarefas 1.1\n- Atualização automática pelo GitHub da Formatec.\n- Nova tela Sobre e atualizações, com contatos e Enviar log para o suporte.\n- Janela de espera no estilo do Windows (barra verde, gráfico, Cancelar).\n- Listas como no Explorador (ordenar, menu do botão direito, larguras guardadas).",
+  "versao": "1.2",
+  "notas": "Gerenciador de Tarefas 1.2\n- Nova tela Mover programas: leva programas instalados para outra unidade ou pasta e dá para voltar.\n- Windows 11: opções da instalação (pular privacidade, sem conta online, conta local, região, sem requisitos, sem BitLocker), Atualizar ou Instalação limpa.\n- Windows 11: backup e restauração automática dos drivers.\n- Limpeza com colunas Nível de Segurança e Sugestões; tela Sugestões renovada.\n- Logotipo do Windows também no Windows 10 e outras correções de tela.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "6765182e6c03c5f78a56545524024278a9cfded717389b1d5628cb4a7f8a7789"
+    "sha256": "597f1792d7f83164cc550ae7a9f5db2c478c3815959e6de1b4ed99ccc2b93f59"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "bde644d09729e7677027f32cd570e12907f1bd8254968f4cfefe2ca073b91fd5"
+    "sha256": "7e3fb7b9a002df9fcb4e76e0e0f03e01933d1cb7b3053db6a8d7d2d0747d498f"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "bde644d09729e7677027f32cd570e12907f1bd8254968f4cfefe2ca073b91fd5"
+  "sha256": "7e3fb7b9a002df9fcb4e76e0e0f03e01933d1cb7b3053db6a8d7d2d0747d498f"
 }

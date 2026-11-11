@@ -32,13 +32,14 @@ configurações do sistema.
 **Diagnóstico**
 - 📈 **Monitor de desempenho** — barra flutuante com processador, memória, disco e rede.
 - 💽 **Saúde dos discos**, 🏁 **Benchmark**, 🔍 **Pendrive/SSD falsificado** e 🧩 **Drivers**.
-- 🪟 **Windows 11** — confere os requisitos com as mesmas verificações do app oficial da Microsoft.
+- 🪟 **Windows 11** — confere os requisitos com as mesmas verificações do app oficial da Microsoft e instala ou atualiza com opções para pular perguntas e configurações (privacidade, conta local, região, requisitos de hardware, BitLocker), além de backup e restauração automática dos drivers.
 - 🌍 **Internet e DNS** — teste de velocidade e escolha do DNS mais rápido.
 
 **Programas**
 - 📦 **Programas** — instala, atualiza e desinstala (winget), inclusive em lote.
 - 🚀 **Pós-formatação** — instala de uma vez os programas do dia a dia.
 - 💾 **Backup de drivers e Wi-Fi** e 🧽 **Sobras de programas**.
+- 🚚 **Mover programas** — leva programas instalados para outra unidade ou pasta sem reinstalar, com opção de voltar ao local original.
 
 **Otimizar**
 - 🧹 **Limpeza**, 🗺️ **Mapa do disco** e 👯 **Arquivos duplicados**.
