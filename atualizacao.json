@@ -3,12 +3,12 @@
   "notas": "Gerenciador de Tarefas 1.2\n- Nova tela Mover programas: leva programas instalados para outra unidade ou pasta e dá para voltar.\n- Windows 11: opções da instalação (pular privacidade, sem conta online, conta local, região, sem requisitos, sem BitLocker), Atualizar ou Instalação limpa.\n- Windows 11: backup e restauração automática dos drivers.\n- Limpeza com colunas Nível de Segurança e Sugestões; tela Sugestões renovada.\n- Logotipo do Windows também no Windows 10 e outras correções de tela.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "597f1792d7f83164cc550ae7a9f5db2c478c3815959e6de1b4ed99ccc2b93f59"
+    "sha256": "58dd84ac8467f2dd47dd17c28f829ced9a483ce81df454c889dbda050ba0c839"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "7e3fb7b9a002df9fcb4e76e0e0f03e01933d1cb7b3053db6a8d7d2d0747d498f"
+    "sha256": "4c18a679151886abf25d0df4e4600ddc013e8f7b178fa18c54d229fd01ff5466"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "7e3fb7b9a002df9fcb4e76e0e0f03e01933d1cb7b3053db6a8d7d2d0747d498f"
+  "sha256": "4c18a679151886abf25d0df4e4600ddc013e8f7b178fa18c54d229fd01ff5466"
 }
