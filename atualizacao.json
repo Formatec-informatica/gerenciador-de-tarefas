@@ -1,14 +1,14 @@
 {
-  "versao": "1.2",
-  "notas": "Gerenciador de Tarefas 1.2\n- Nova tela Mover programas: leva programas instalados para outra unidade ou pasta e dá para voltar.\n- Windows 11: opções da instalação (pular privacidade, sem conta online, conta local, região, sem requisitos, sem BitLocker), Atualizar ou Instalação limpa.\n- Windows 11: backup e restauração automática dos drivers.\n- Limpeza com colunas Nível de Segurança e Sugestões; tela Sugestões renovada.\n- Logotipo do Windows também no Windows 10 e outras correções de tela.",
+  "versao": "1.3",
+  "notas": "Gerenciador de Tarefas 1.3\n- Nova tela Verificação dos Discos com Recuperar arquivos: busca rápida e profunda, Lixeira esvaziada com os nomes originais, pré-visualização, filtros e imagem do disco.\n- Saúde dos discos: SMART detalhado com nota em %, histórico de temperatura e saúde com avisos.\n- Windows 11: abas Windows e Office (chaves, ativação, trocar edição, reparar licenciamento) e Guia completo.\n- Office: pacote e aplicativos com Reparar, Buscar Office e Remover este produto sem deixar vestígios.\n- Atualização instalada ao fechar o programa, Cancelar que para a tarefa, suporte a dois monitores e outros ajustes de tela.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "58dd84ac8467f2dd47dd17c28f829ced9a483ce81df454c889dbda050ba0c839"
+    "sha256": "206075b5d2982e125145dea0614db2c2f844aa69ea739b2fb553858353141768"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "4c18a679151886abf25d0df4e4600ddc013e8f7b178fa18c54d229fd01ff5466"
+    "sha256": "c73bdb464906ba8d12c92dce13802dc987d2b8646acd78e486b26fd17e56e506"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "4c18a679151886abf25d0df4e4600ddc013e8f7b178fa18c54d229fd01ff5466"
+  "sha256": "c73bdb464906ba8d12c92dce13802dc987d2b8646acd78e486b26fd17e56e506"
 }
