@@ -3,12 +3,12 @@
   "notas": "Gerenciador de Tarefas 1.3\n- Nova tela Verificação dos Discos com Recuperar arquivos: busca rápida e profunda, Lixeira esvaziada com os nomes originais, pré-visualização, filtros e imagem do disco.\n- Saúde dos discos: SMART detalhado com nota em %, histórico de temperatura e saúde com avisos.\n- Windows 11: abas Windows e Office (chaves, ativação, trocar edição, reparar licenciamento) e Guia completo.\n- Office: pacote e aplicativos com Reparar, Buscar Office e Remover este produto sem deixar vestígios.\n- Atualização instalada ao fechar o programa, Cancelar que para a tarefa, suporte a dois monitores e outros ajustes de tela.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "206075b5d2982e125145dea0614db2c2f844aa69ea739b2fb553858353141768"
+    "sha256": "b6575d84000c85d9244ae02b7b210ebfe86ecff7bb39842021f618a51803fd4d"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "c73bdb464906ba8d12c92dce13802dc987d2b8646acd78e486b26fd17e56e506"
+    "sha256": "360047b098a086222696d0b3b768f6a9ef019e5c651e2a1924af54f69b176973"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "c73bdb464906ba8d12c92dce13802dc987d2b8646acd78e486b26fd17e56e506"
+  "sha256": "360047b098a086222696d0b3b768f6a9ef019e5c651e2a1924af54f69b176973"
 }
