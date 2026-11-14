@@ -3,12 +3,12 @@
   "notas": "Gerenciador de Tarefas 1.4\n- Verificação dos Discos: Reparar unidade RAW (com Desfazer) e remoção do Vírus de atalho (com quarentena).\n- Recuperar arquivos: salvar a busca e continuar depois, Partições perdidas, Reparar vídeo, vídeos gravados em pedaços, compactados e fragmentados do NTFS e mais tipos.\n- Saúde dos discos: Reparar ou sugestões para disco com defeito. Drivers: reparar, desativar ou ativar dispositivo com defeito.\n- Windows 11: botão Iniciar Atualização ou Iniciar Formatação conforme a opção escolhida.\n- Abertura mais rápida, telas ajustadas a notebooks com barras de rolagem, janelas presas ao programa e caixas de marcar verdes.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "d0e031c17aeed1807eaaa43d7ea38f2159eeb7b9676fd72debece2ecaf78ec93"
+    "sha256": "969df9adcc64daa70e3b35320372b4869a440a7885b2131587d1a349f76ebef8"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "3cffde5568429f76fbfba3a8fdbcb2b8c5d73dcd0b7a0975fa0711ee2fcc885a"
+    "sha256": "3940106058448c1a9f269f8c577bc476c404c61c99dcb507a00971edc075fd33"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "3cffde5568429f76fbfba3a8fdbcb2b8c5d73dcd0b7a0975fa0711ee2fcc885a"
+  "sha256": "3940106058448c1a9f269f8c577bc476c404c61c99dcb507a00971edc075fd33"
 }
