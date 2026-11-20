@@ -1,14 +1,14 @@
 {
-  "versao": "1.5.2",
-  "notas": "Gerenciador de Tarefas 1.5.2\n- Modo avançado: corrigido o travamento ao abrir em máquina virtual e PC lento; o X sempre fecha o programa.\n- Telas ainda não abertas só são preparadas quando você para de mexer: cliques respondem mais rápido em PC lento.\n- Início: o assistente mostra os passos do que este computador precisa (Formatar um computador continua a um clique).\n- Troca de modo alinhada com o assistente, rodapé só com versão e data, logo do instalador com folga.",
+  "versao": "1.5.3",
+  "notas": "Gerenciador de Tarefas 1.5.3\n- Modo avançado: corrigida a trava ao abrir em máquina virtual e PC lento (a tela Início ficava se reajustando sem parar).\n- Se o Modo avançado não abrir em 30 segundos, o programa abre sozinho no Modo clássico.\nInclui tudo da 1.5.2: X sempre fecha, assistente com o que o computador precisa, cliques mais rápidos em PC lento.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "bd9074e7bcd621c3fa291a4f18d6695744c451a4b277f2502f603bda988508aa"
+    "sha256": "41635331a7af872acda1278602439c3e9e3f80cc0ba670711e1cc89c96707de1"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "b268267d5701a91ed9a6fb56dca74397b9bba729ed9d22de70f98a7001c007a4"
+    "sha256": "4fa2a869f5d3b6e40aeece783c53d485e15e65bda987d43dd6d3be698696e6be"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "b268267d5701a91ed9a6fb56dca74397b9bba729ed9d22de70f98a7001c007a4"
+  "sha256": "4fa2a869f5d3b6e40aeece783c53d485e15e65bda987d43dd6d3be698696e6be"
 }
