@@ -1,14 +1,14 @@
 {
-  "versao": "1.5",
-  "notas": "Gerenciador de Tarefas 1.5\n- Novo Modo avançado: aparência nova com as mesmas telas e funções (troque entre Clássico e Avançado no Início ou em Sobre).\n- Menu lateral por assunto com submenus, sem abas repetidas em cima: mais espaço para as informações.\n- Início no Modo avançado mostra o que este computador precisa, com um clique para resolver.\n- Windows 11: Atualizar sempre mantém arquivos e programas (se não der, para sem apagar nada); Instalação limpa aplica as opções como o Rufus e grava no pendrive.\n- Office: Remover este produto remove só o Office escolhido. Instalador com a logo do programa.",
+  "versao": "1.5.1",
+  "notas": "Gerenciador de Tarefas 1.5.1\n- O rodapé e a tela Sobre mostram a data e a hora em que a versão foi gerada.\n- Modo avançado: as telas não ficam mais presas com \"O programa não abriu\" em PC lento ou máquina virtual.\n- Submenus do menu lateral sem as linhas.\nInclui tudo da 1.5: Modo avançado, menu com submenus, Windows 11 Atualizar sem apagar e instalação limpa como o Rufus, Remover só o Office escolhido.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "b7aca1e363cd9931adb8063372d9f61179b2d9c618873e35c9312ff5d0af95c0"
+    "sha256": "2096498aa322cfb8658d06b0e2c466ff6aad376bde6cef7935c536c81fcac32d"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "077f4329ff7f99e412f920cf674c15214906c6743a83674a89aaea6dd78d5fca"
+    "sha256": "7ec8dc0c75ce9a771eb57b807e463eaaf60429f51ac16afba492383fda6deadb"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "077f4329ff7f99e412f920cf674c15214906c6743a83674a89aaea6dd78d5fca"
+  "sha256": "7ec8dc0c75ce9a771eb57b807e463eaaf60429f51ac16afba492383fda6deadb"
 }
