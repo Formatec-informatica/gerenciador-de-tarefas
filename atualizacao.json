@@ -1,14 +1,14 @@
 {
-  "versao": "1.5.1",
-  "notas": "Gerenciador de Tarefas 1.5.1\n- O rodapé e a tela Sobre mostram a data e a hora em que a versão foi gerada.\n- Modo avançado: as telas não ficam mais presas com \"O programa não abriu\" em PC lento ou máquina virtual.\n- Submenus do menu lateral sem as linhas.\nInclui tudo da 1.5: Modo avançado, menu com submenus, Windows 11 Atualizar sem apagar e instalação limpa como o Rufus, Remover só o Office escolhido.",
+  "versao": "1.5.2",
+  "notas": "Gerenciador de Tarefas 1.5.2\n- Modo avançado: corrigido o travamento ao abrir em máquina virtual e PC lento; o X sempre fecha o programa.\n- Telas ainda não abertas só são preparadas quando você para de mexer: cliques respondem mais rápido em PC lento.\n- Início: o assistente mostra os passos do que este computador precisa (Formatar um computador continua a um clique).\n- Troca de modo alinhada com o assistente, rodapé só com versão e data, logo do instalador com folga.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "2096498aa322cfb8658d06b0e2c466ff6aad376bde6cef7935c536c81fcac32d"
+    "sha256": "bd9074e7bcd621c3fa291a4f18d6695744c451a4b277f2502f603bda988508aa"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "7ec8dc0c75ce9a771eb57b807e463eaaf60429f51ac16afba492383fda6deadb"
+    "sha256": "b268267d5701a91ed9a6fb56dca74397b9bba729ed9d22de70f98a7001c007a4"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "7ec8dc0c75ce9a771eb57b807e463eaaf60429f51ac16afba492383fda6deadb"
+  "sha256": "b268267d5701a91ed9a6fb56dca74397b9bba729ed9d22de70f98a7001c007a4"
 }
