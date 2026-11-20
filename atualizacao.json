@@ -1,14 +1,14 @@
 {
-  "versao": "1.4",
-  "notas": "Gerenciador de Tarefas 1.4\n- Verificação dos Discos: Reparar unidade RAW (com Desfazer) e remoção do Vírus de atalho (com quarentena).\n- Recuperar arquivos: salvar a busca e continuar depois, Partições perdidas, Reparar vídeo, vídeos gravados em pedaços, compactados e fragmentados do NTFS e mais tipos.\n- Saúde dos discos: Reparar ou sugestões para disco com defeito. Drivers: reparar, desativar ou ativar dispositivo com defeito.\n- Windows 11: botão Iniciar Atualização ou Iniciar Formatação conforme a opção escolhida.\n- Abertura mais rápida, telas ajustadas a notebooks com barras de rolagem, janelas presas ao programa e caixas de marcar verdes.",
+  "versao": "1.5",
+  "notas": "Gerenciador de Tarefas 1.5\n- Novo Modo avançado: aparência nova com as mesmas telas e funções (troque entre Clássico e Avançado no Início ou em Sobre).\n- Menu lateral por assunto com submenus, sem abas repetidas em cima: mais espaço para as informações.\n- Início no Modo avançado mostra o que este computador precisa, com um clique para resolver.\n- Windows 11: Atualizar sempre mantém arquivos e programas (se não der, para sem apagar nada); Instalação limpa aplica as opções como o Rufus e grava no pendrive.\n- Office: Remover este produto remove só o Office escolhido. Instalador com a logo do programa.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "969df9adcc64daa70e3b35320372b4869a440a7885b2131587d1a349f76ebef8"
+    "sha256": "b7aca1e363cd9931adb8063372d9f61179b2d9c618873e35c9312ff5d0af95c0"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "3940106058448c1a9f269f8c577bc476c404c61c99dcb507a00971edc075fd33"
+    "sha256": "077f4329ff7f99e412f920cf674c15214906c6743a83674a89aaea6dd78d5fca"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "3940106058448c1a9f269f8c577bc476c404c61c99dcb507a00971edc075fd33"
+  "sha256": "077f4329ff7f99e412f920cf674c15214906c6743a83674a89aaea6dd78d5fca"
 }
