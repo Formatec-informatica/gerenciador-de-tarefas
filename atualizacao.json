@@ -1,14 +1,14 @@
 {
-  "versao": "1.5.5",
-  "notas": "Gerenciador de Tarefas 1.5.5\n- Modo avançado: nova correção para a trava ao abrir em máquina virtual (a tela Início escondida não se reajusta mais pela largura).\n- O que há de novo: versões em coluna à esquerda e as novidades à direita também no Modo avançado.",
+  "versao": "1.5.6",
+  "notas": "Gerenciador de Tarefas 1.5.6\n- Sobre e atualizações agora fica no botão Versão, embaixo do menu; Sugestões com o mesmo formato.\n- O que há de novo dentro da tela Sobre: versões à esquerda e, ao lado, a data, o suporte e as novidades (sem janela suspensa).\n- Modo avançado mais leve: Limpeza, Otimizações, Saúde dos discos, Drivers e a Verificação do Windows 11 agora têm tela própria, sem passar pelo programa escondido.",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Instalador_Gerenciador_de_Tarefas.exe",
-    "sha256": "e89d9d08f0e241380f1650414490043e64a0910a22e1454a6ec910827a62e737"
+    "sha256": "5536ba4cacf5a31e8a7b21f6e8dcd13bb2c4924149645cb9eb1aad962f6c678a"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-    "sha256": "7fc6f011d3b6208cc14ffcfb1d072778913a318e437c216a53445bdc4ad6ae58"
+    "sha256": "df9b9046422938688a955182701af6108c1aa0be59cc089520dfeb169f7a25bc"
   },
   "url": "https://raw.githubusercontent.com/Formatec-informatica/gerenciador-de-tarefas/main/versao/Gerenciador_de_Tarefas_Portatil.exe",
-  "sha256": "7fc6f011d3b6208cc14ffcfb1d072778913a318e437c216a53445bdc4ad6ae58"
+  "sha256": "df9b9046422938688a955182701af6108c1aa0be59cc089520dfeb169f7a25bc"
 }
